@@ -18,7 +18,7 @@ const Slider = () => {
                 spaceBetween={30}
                 centeredSlides={true}
                 autoplay={{
-                    delay: 2500,
+                    delay: 3000,
                     disableOnInteraction: false,
                 }}
                 pagination={{
@@ -31,21 +31,21 @@ const Slider = () => {
                 <SwiperSlide>
                     <img
                         className="object-fill w-full h-96"
-                        src="https://i.ibb.co/KmtQm0s/slider3.jpg"
+                        src="https://i.ibb.co/85WY3PG/slider2.jpg"
                         alt="image slide 1"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <img
                         className="object-fill w-full h-96"
-                        src="https://i.ibb.co/yNmchZz/slider2.jpg"
+                        src="https://i.ibb.co/s2qmV8C/slider3.jpg"
                         alt="image slide 2"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <img
                         className="object-fill w-full h-96"
-                        src="https://i.ibb.co/s32XvVH/slider1.jpg"
+                        src="https://i.ibb.co/5T43QC1/slider1.jpg"
                         alt="image slide 3"
                     />
                 </SwiperSlide>
